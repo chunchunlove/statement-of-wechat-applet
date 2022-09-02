@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "人脸识别录入",
+  "usingComponents": {
+    "u-form": "/uview-ui/components/u-form/u-form",
+    "u-cell-group": "/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell-item": "/uview-ui/components/u-cell-item/u-cell-item",
+    "u-button": "/uview-ui/components/u-button/u-button"
+  }
+}

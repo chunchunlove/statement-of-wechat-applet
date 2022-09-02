@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-modal": "/uview-ui/components/u-modal/u-modal",
+    "v-search": "/components/v-search",
+    "sharing-list": "/pages/article/sharing-list"
+  }
+}

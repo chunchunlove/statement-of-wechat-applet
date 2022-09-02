@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["uview-ui/components/u-grid-item/u-grid-item"],{"0562":function(t,e,n){"use strict";var r=n("12eb"),a=n.n(r);a.a},"12eb":function(t,e,n){},5627:function(t,e,n){"use strict";n.r(e);var r=n("ab23"),a=n.n(r);for(var i in r)"default"!==i&&function(t){n.d(e,t,(function(){return r[t]}))}(i);e["default"]=a.a},8216:function(t,e,n){"use strict";var r;n.d(e,"b",(function(){return a})),n.d(e,"c",(function(){return i})),n.d(e,"a",(function(){return r}));var a=function(){var t=this,e=t.$createElement,n=(t._self._c,t.__get_style([t.customStyle]));t.$mp.data=Object.assign({},{$root:{s0:n}})},i=[]},ab23:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var r={name:"u-grid-item",props:{bgColor:{type:String,default:"#ffffff"},index:{type:[Number,String],default:""},customStyle:{type:Object,default:function(){return{padding:"30rpx 0"}}}},data:function(){return{parentData:{hoverClass:"",col:3,border:!0}}},created:function(){this.updateParentData(),this.parent.children.push(this)},computed:{width:function(){return 100/Number(this.parentData.col)+"%"}},methods:{updateParentData:function(){this.getParentData("u-grid")},click:function(){this.$emit("click",this.index),this.parent&&this.parent.click(this.index)}}};e.default=r},f1e5:function(t,e,n){"use strict";n.r(e);var r=n("8216"),a=n("5627");for(var i in a)"default"!==i&&function(t){n.d(e,t,(function(){return a[t]}))}(i);n("0562");var u,c=n("f0c5"),o=Object(c["a"])(a["default"],r["b"],r["c"],!1,null,"1f7a7330",null,!1,r["a"],u);e["default"]=o.exports}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'uview-ui/components/u-grid-item/u-grid-item-create-component',
+    {
+        'uview-ui/components/u-grid-item/u-grid-item-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("f1e5"))
+        })
+    },
+    [['uview-ui/components/u-grid-item/u-grid-item-create-component']]
+]);

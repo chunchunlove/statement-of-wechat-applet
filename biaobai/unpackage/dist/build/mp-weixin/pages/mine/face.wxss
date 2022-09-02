@@ -1,0 +1,1 @@
+.page{width:750rpx;justify-content:center;align-items:center;flex-direction:column;display:flex}.page .buttons{width:600rpx}

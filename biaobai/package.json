@@ -1,0 +1,34 @@
+{
+  "name": "biaobai",
+  "version": "1.8.5",
+  "description": "基于uni-app、uView UI开发的用于表白的微信小程序项目",
+  "main": "index.js",
+  "keywords": [
+    "uview",
+    "ui",
+    "uni-app"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.0",
+    "sass-loader": "^8.0.2"
+  },
+  "author": "uView",
+  "license": "MIT",
+  "id": "uview-v1",
+  "dcloudext": {
+    "category": [
+      "前端组件",
+      "通用组件"
+    ]
+  },
+  "dependencies": {
+
+  }
+}

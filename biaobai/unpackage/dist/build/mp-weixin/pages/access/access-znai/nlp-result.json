@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "提交结果",
+  "usingComponents": {
+    "u-card": "/uview-ui/components/u-card/u-card"
+  }
+}

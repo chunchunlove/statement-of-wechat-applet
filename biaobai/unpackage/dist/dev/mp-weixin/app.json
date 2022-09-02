@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/home/index",
+    "pages/album/index",
+    "pages/comments/index",
+    "pages/hourglass/index",
+    "pages/love/index",
+    "pages/note/index",
+    "pages/video/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "表白",
+    "navigationBarBackgroundColor": "#ffaaff"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

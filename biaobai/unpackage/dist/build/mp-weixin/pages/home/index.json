@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "u-swiper": "/uview-ui/components/u-swiper/u-swiper",
+    "v-search": "/components/v-search",
+    "article-list": "/pages/article/article-list"
+  }
+}

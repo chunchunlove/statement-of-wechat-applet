@@ -1,0 +1,1 @@
+uni-swiper{height:calc(100vh - 380rpx)}.home_tab .home_tab_title{position:relative}.home_tab .home_tab_title .title_inner{width:70%;margin:0 auto}.home_tab .home_tab_title .iconsearch{position:absolute;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%);right:5%}

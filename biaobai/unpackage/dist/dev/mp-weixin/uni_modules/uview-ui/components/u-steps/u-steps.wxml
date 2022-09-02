@@ -1,0 +1,1 @@
+<view class="{{['u-steps','data-v-387c9f09','u-steps--'+direction]}}"><slot></slot></view>

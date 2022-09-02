@@ -1,0 +1,56 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/uni_modules/uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页
+		
+		{
+			"path": "pages/home/index",
+			"style": {
+				"navigationBarTitleText": "导航"
+			}
+		},
+		{
+			"path": "pages/album/index",
+			"style": {
+				"navigationBarTitleText": "相册"
+			}
+		},
+		{
+			"path": "pages/comments/index",
+			"style": {
+				"navigationBarTitleText": "留言"
+			}
+		},
+		{
+			"path": "pages/hourglass/index",
+			"style": {
+				"navigationBarTitleText": "沙漏"
+			}
+		},
+		{
+			"path": "pages/love/index",
+			"style": {
+				"navigationBarTitleText": "爱情"
+			}
+		},
+		{
+			"path": "pages/note/index",
+			"style": {
+				"navigationBarTitleText": "记事"
+			}
+		},
+		{
+			"path": "pages/video/index",
+			"style": {
+				"navigationBarTitleText": "表白视频"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "表白",
+		"navigationBarBackgroundColor": "#ffaaff"
+
+	}
+}

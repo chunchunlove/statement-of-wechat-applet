@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "记事",
+  "usingComponents": {
+    "u-steps": "/uni_modules/uview-ui/components/u-steps/u-steps",
+    "u-steps-item": "/uni_modules/uview-ui/components/u-steps-item/u-steps-item"
+  }
+}

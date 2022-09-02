@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "业务支持",
+  "usingComponents": {
+    "u-tabs-swiper": "/uview-ui/components/u-tabs-swiper/u-tabs-swiper",
+    "support-dcfx": "/pages/support/support-dcfx/index",
+    "support-jgty": "/pages/support/support-jgty/index",
+    "support-nlwh": "/pages/support/support-nlwh/index",
+    "v-search": "/components/v-search"
+  }
+}

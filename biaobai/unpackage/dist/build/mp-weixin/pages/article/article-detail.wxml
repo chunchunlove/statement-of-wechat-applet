@@ -1,0 +1,1 @@
+<view class="data-v-96fd35cc"><block wx:if="{{isShow}}"><view class="article-content data-v-96fd35cc"><web-view src="{{url}}" data-ref="web" class="data-v-96fd35cc vue-ref"></web-view></view></block></view>

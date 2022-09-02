@@ -1,0 +1,1 @@
+<view><u-search vue-id="e81feea8-1" placeholder="搜索" show-action="{{false}}" margin="10px 0 10px 0" value="{{search}}" data-event-opts="{{[['^focus',[['handleFocus']]],['^input',[['__set_model',['','search','$event',[]]]]]]}}" bind:focus="__e" bind:input="__e" bind:__l="__l"></u-search></view>

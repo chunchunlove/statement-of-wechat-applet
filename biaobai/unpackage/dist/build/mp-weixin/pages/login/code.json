@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "验证码",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-message-input": "/uview-ui/components/u-message-input/u-message-input",
+    "u-mask": "/uview-ui/components/u-mask/u-mask"
+  }
+}

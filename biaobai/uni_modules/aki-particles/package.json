@@ -1,0 +1,79 @@
+{
+  "id": "aki-particles",
+  "displayName": "粒子特效背景组件",
+  "version": "1.0.1",
+  "description": "用于页面背景的粒子特效组件，particles.js的uniapp封装，适合留白较多页面的背景美化，效果在下面的readme里有演示地址",
+  "keywords": [
+    "aki-particles",
+    "粒子",
+    "特效",
+    "particles"
+],
+  "repository": "https://github.com/akirasen/aki-particles",
+  "engines": {
+    "HBuilderX": "^2.8.5"
+  },
+  "dcloudext": {
+    "category": [
+        "前端组件",
+        "通用组件"
+    ],
+    "sale": {
+      "regular": {
+        "price": "0.00"
+      },
+      "sourcecode": {
+        "price": "0.00"
+      }
+    },
+    "contact": {
+      "qq": "50793655"
+    },
+    "declaration": {
+      "ads": "无",
+      "data": "无",
+      "permissions": "无"
+    },
+    "npmurl": ""
+  },
+  "uni_modules": {
+    "dependencies": [],
+    "encrypt": [],
+    "platforms": {
+      "cloud": {
+        "tcb": "n",
+        "aliyun": "y"
+      },
+      "client": {
+        "App": {
+          "app-vue": "u",
+          "app-nvue": "u"
+        },
+        "H5-mobile": {
+          "Safari": "y",
+          "Android Browser": "u",
+          "微信浏览器(Android)": "y",
+          "QQ浏览器(Android)": "u"
+        },
+        "H5-pc": {
+          "Chrome": "y",
+          "IE": "u",
+          "Edge": "u",
+          "Firefox": "u",
+          "Safari": "y"
+        },
+        "小程序": {
+          "微信": "u",
+          "阿里": "u",
+          "百度": "u",
+          "字节跳动": "u",
+          "QQ": "u"
+        },
+        "快应用": {
+          "华为": "u",
+          "联盟": "u"
+        }
+      }
+    }
+  }
+}

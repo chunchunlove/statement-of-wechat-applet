@@ -1,0 +1,101 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.home-wrap #logo {
+  display: block;
+}
+.home-wrap #logo .logo-img {
+  position: relative;
+  top: 252rpx;
+  left: 118rpx;
+  width: 470rpx;
+  height: 436rpx;
+  z-index: 10;
+}
+.home-wrap .menu .navigator-hover {
+  -webkit-transform: scale(1.4);
+          transform: scale(1.4);
+  transition: 0.3s all;
+}
+.home-wrap #menu {
+  list-style: none;
+}
+.home-wrap #menu ._li {
+  position: absolute;
+}
+.home-wrap #menu ._li .nav-img {
+  position: relative;
+  z-index: 6;
+  top: 20rpx;
+  left: 20rpx;
+}
+.home-wrap ._li ._span {
+  position: absolute;
+  width: 193.33rpx;
+  top: 109.33rpx;
+  color: #fff;
+  text-align: center;
+  left: 30rpx;
+  text-shadow: 1rpx 1rpx rgba(0, 0, 0, 0.2);
+  z-index: 9;
+}
+.home-wrap #nav1 {
+  top: 105rpx;
+  left: 96rpx;
+}
+.home-wrap #nav1 ._span {
+  top: 90rpx;
+}
+.home-wrap #nav2 {
+  top: 358.5rpx;
+  left: 0rpx;
+}
+.home-wrap #nav2 ._span {
+  margin-left: -12rpx;
+}
+.home-wrap #nav3 {
+  top: 558rpx;
+  left: 111rpx;
+}
+.home-wrap #nav4 {
+  top: 558rpx;
+  left: 342rpx;
+}
+.home-wrap #nav5 {
+  top: 360rpx;
+  left: 448rpx;
+}
+.home-wrap #nav5 ._span {
+  margin-left: 20rpx;
+}
+.home-wrap #nav6 {
+  top: 105rpx;
+  left: 342rpx;
+}
+.home-wrap #nav6 ._span {
+  top: 90rpx;
+}
+

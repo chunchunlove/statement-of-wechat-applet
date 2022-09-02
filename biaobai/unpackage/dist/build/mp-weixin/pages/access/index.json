@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "通用技术接入",
+  "usingComponents": {
+    "u-tabs": "/uview-ui/components/u-tabs/u-tabs",
+    "access-dsjjcfw": "/pages/access/access-dsjjcfw/index",
+    "access-qllgj": "/pages/access/access-qllgj/index",
+    "access-sjzljcfw": "/pages/access/access-sjzljcfw/index",
+    "access-znai": "/pages/access/access-znai/index",
+    "access-ztjcfw": "/pages/access/access-ztjcfw/index",
+    "v-search": "/components/v-search"
+  }
+}

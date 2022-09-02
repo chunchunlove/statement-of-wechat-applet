@@ -1,0 +1,70 @@
+{
+  "pages": [
+    "pages/home/index",
+    "pages/login/index",
+    "pages/login/code",
+    "pages/home/tourist-home",
+    "pages/login/code",
+    "pages/support/index",
+    "pages/access/index",
+    "pages/access/access-ztjcfw/push",
+    "pages/access/access-ztjcfw/utweb",
+    "pages/access/access-ztjcfw/utweb-result",
+    "pages/access/access-dsjjcfw/jrznzxzx/index",
+    "pages/access/access-znai/nlp",
+    "pages/access/access-sjzljcfw/sjjmpt",
+    "pages/access/access-znai/nlp-result",
+    "pages/access/access-qllgj/ebus",
+    "pages/access/access-znai/ywrpa",
+    "pages/mine/index",
+    "pages/mine/face",
+    "pages/mine/camera",
+    "pages/mine/watermark/watermark",
+    "pages/search/index",
+    "pages/article/article-list",
+    "pages/article/article-detail",
+    "pages/article/sharing-detail",
+    "pages/pdf/index",
+    "pages/web/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "兴证通",
+    "navigationBarBackgroundColor": "#001f3f"
+  },
+  "tabBar": {
+    "color": "#8a8a8a",
+    "selectedColor": "#d4237a",
+    "backgroundColor": "#fff",
+    "position": "bottom",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/home/index",
+        "text": "首页",
+        "iconPath": "./static/icon/_home.png",
+        "selectedIconPath": "./static/icon/home.png"
+      },
+      {
+        "pagePath": "pages/support/index",
+        "text": "业务支持",
+        "iconPath": "./static/icon/_videocamera.png",
+        "selectedIconPath": "./static/icon/videocamera.png"
+      },
+      {
+        "pagePath": "pages/access/index",
+        "text": "通用技术接入",
+        "iconPath": "./static/icon/_search.png",
+        "selectedIconPath": "./static/icon/search.png"
+      },
+      {
+        "pagePath": "pages/mine/index",
+        "text": "我的",
+        "iconPath": "./static/icon/_my.png",
+        "selectedIconPath": "./static/icon/my.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
